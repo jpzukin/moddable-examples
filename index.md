@@ -6,7 +6,7 @@
 
 ## ラベルでhelloworldを表示する 
 
-![](../assets/fig-helloworld.jpg)
+![](./assets/fig-helloworld.jpg)
 
 ### 概要
 
@@ -40,7 +40,7 @@
 
 ## コンテンツ(ラベル)を横に並べる
 
-![](../assets/fig-tile-row.jpg)
+![](./assets/fig-tile-row.jpg)
 
 ### 概要
 
@@ -58,7 +58,7 @@
 
 ## コンテンツ(ラベル)を縦に並べる
 
-![](../assets/fig-tile-column.jpg)
+![](./assets/fig-tile-column.jpg)
 
 ### 概要
 
